@@ -43,6 +43,7 @@ projet_extration_ia/
 ├── test_groq.py          # 🧪 Test Groq API
 ├── test_tesseract.py     # 🧪 Vérification Tesseract
 └── README.md             # 📖 Ce fichier
+└── images_streamlit      # images de l'app streamlit
 ```
 
 ### 📝 Description des Fichiers
