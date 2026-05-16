@@ -62,7 +62,7 @@ projet_extration_ia/
 ## 📸 Captures d'écran
 
 ### Interface Principale
-![Interface Streamlit](./interface_streamlit.png)
+![Interface Streamlit](images_streamlit/interface_streamlit.png)
 *Page d'accueil avec zone de téléchargement et instructions*
 
 ### Tableau de Bord avec Résultats
