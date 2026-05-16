@@ -266,7 +266,5 @@ Pour toute question ou bug report, consultez les logs ou ouvrez une issue.
 Projet développé à des fins éducatives et professionnelles.
 
 ---
-
-**Dernière mise à jour** : Mai 2026  
-**Autteur** : Cédric BOIMIN
-**Status** : 🟢 Actif
+ 
+**Auteur** : Cédric BOIMIN
