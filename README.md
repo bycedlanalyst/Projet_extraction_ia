@@ -250,6 +250,7 @@ client = Groq(api_key=api_key)
 🔜 **Base de données** - Stockage de l'historique  
 🔜 **Support multilingues** - Plus de langues  
 🔜 **Export avancé** - CSV, Excel, TSV, Docx
+
 🔜 **Traitement par batch** - Traiter plusieurs fichiers  
 🔜 **Webhooks** - Intégrations externes  
 
