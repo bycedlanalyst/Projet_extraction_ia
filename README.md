@@ -66,7 +66,7 @@ projet_extration_ia/
 *Page d'accueil avec zone de téléchargement et instructions*
 
 ### Tableau de Bord avec Résultats
-![Dashboard Streamlit](./Dashboard_streamlit.png)
+![Dashboard Streamlit](images_streamlit/Dashboard_streamlit.png)
 *Affichage des résultats d'analyse avec confiance et résumé*
 
 ---
