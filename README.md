@@ -267,5 +267,5 @@ Projet développé à des fins éducatives et professionnelles.
 ---
 
 **Dernière mise à jour** : Mai 2026  
-**Créateur** : Boimi  
+**Autteur** : Cédric BOIMIN
 **Status** : 🟢 Actif
