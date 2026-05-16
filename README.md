@@ -1,4 +1,4 @@
-i# 📄 Document Intelligence - Extraction IA
+# 📄 Document Intelligence - Extraction IA
 
 Un projet d'**extraction et analyse intelligente de documents** utilisant **OCR (Tesseract)** et **IA générative (Groq - LLaMA)**.
 
