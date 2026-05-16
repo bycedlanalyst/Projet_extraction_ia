@@ -1,4 +1,4 @@
-# 📄 Document Intelligence - Extraction IA
+i# 📄 Document Intelligence - Extraction IA
 
 Un projet d'**extraction et analyse intelligente de documents** utilisant **OCR (Tesseract)** et **IA générative (Groq - LLaMA)**.
 
@@ -249,7 +249,7 @@ client = Groq(api_key=api_key)
 🔜 **Authentification** - Gestion des utilisateurs  
 🔜 **Base de données** - Stockage de l'historique  
 🔜 **Support multilingues** - Plus de langues  
-🔜 **Export avancé** - CSV, Excel, PDF  
+🔜 **Export avancé** - CSV, Excel, TSV, Docx
 🔜 **Traitement par batch** - Traiter plusieurs fichiers  
 🔜 **Webhooks** - Intégrations externes  
 
